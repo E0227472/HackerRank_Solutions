@@ -1,0 +1,14 @@
+
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8õ÷…•ë-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—­øı8¾Í»–ë-
+Isquid:S1602",Remove useless curly braces around statement(Ò®ÿa8ÄÁ™ë-
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Ëü§—ë-
+?squid:S1643J"Use a StringBuilder instead.(áÇ§şÿÿÿÿ8ÉóÛ›ë-
+9squid:S3626H"Remove this redundant jump.(ÉŠ©ƒ8ÉóÛ›ë-
+dsquid:S1854-"ARemove this useless assignment to local variable "intStringPair".(ãÁîˆøÿÿÿÿ8ÉóÛ›ë-
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ÉóÛ›ë-
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(È³Äúûÿÿÿÿ8ÉóÛ›ë-
+nsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(È³Äúûÿÿÿÿ8ÉóÛ›ë-
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(İº¼×8ÉóÛ›ë-
